@@ -1,2 +1,7 @@
 name = "api-blog-rss"
 compatibility_date = "2023-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "tabbypage"
+database_id = "796eb66c-eada-4d80-a7fd-314064a04259"
